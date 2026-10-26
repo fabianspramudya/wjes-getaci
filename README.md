@@ -1,7 +1,7 @@
 WJES 2026 · SCENARIO WEBGIS
 
 Tol Getaci & KA Banjar–Cijulang: Siapa yang Makin Dekat?
-https://fabianspramudya.github.io/WJES_Infrastucture_Induction_Framework/
+https://fabianspramudya.github.io/wjes-getaci
 
 Static WebGIS (HTML + CSS + Leaflet JS) showing potential accessibility for 131 sub-districts
 (Garut, Kab./Kota Tasikmalaya, Ciamis, Kota Banjar, Pangandaran) under six scenarios:
