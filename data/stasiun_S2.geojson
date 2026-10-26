@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "stasiun_S2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"xy_coordinate_resolution": 1e-05,
+"features": [
+{ "type": "Feature", "properties": { "nama": "Banjar", "chainage_m": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 108.54268, -7.37664 ] } },
+{ "type": "Feature", "properties": { "nama": "St. Pamarican", "chainage_m": 10082.84353784278 }, "geometry": { "type": "Point", "coordinates": [ 108.56232, -7.4406 ] } },
+{ "type": "Feature", "properties": { "nama": "St. Banjarsari", "chainage_m": 18278.523388456735 }, "geometry": { "type": "Point", "coordinates": [ 108.61049, -7.48556 ] } },
+{ "type": "Feature", "properties": { "nama": "St. Padaherang", "chainage_m": 31244.175136613623 }, "geometry": { "type": "Point", "coordinates": [ 108.69508, -7.55046 ] } },
+{ "type": "Feature", "properties": { "nama": "St. Kalipucang", "chainage_m": 46135.001186706577 }, "geometry": { "type": "Point", "coordinates": [ 108.74865, -7.65378 ] } },
+{ "type": "Feature", "properties": { "nama": "St. Pangandaran", "chainage_m": 60596.790502933982 }, "geometry": { "type": "Point", "coordinates": [ 108.64648, -7.67824 ] } },
+{ "type": "Feature", "properties": { "nama": "St. Sidamulih", "chainage_m": 66546.22378443589 }, "geometry": { "type": "Point", "coordinates": [ 108.59297, -7.67383 ] } },
+{ "type": "Feature", "properties": { "nama": "St. Parigi", "chainage_m": 73440.05295649347 }, "geometry": { "type": "Point", "coordinates": [ 108.53341, -7.68628 ] } },
+{ "type": "Feature", "properties": { "nama": "Cijulang (ujung jalur)", "chainage_m": 82460.319118022744 }, "geometry": { "type": "Point", "coordinates": [ 108.47423, -7.73024 ] } }
+]
+}
